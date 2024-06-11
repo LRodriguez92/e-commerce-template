@@ -1,0 +1,13 @@
+{
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/cart/checkout",
+        "handler": "cart.checkout",
+        "config": {
+          "policies": []
+        }
+      }
+    ]
+  }
+  
